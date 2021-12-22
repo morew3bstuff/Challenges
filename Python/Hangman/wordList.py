@@ -1,0 +1,1 @@
+wordList = ["dog", "pizza", "cat", "elevator", "life", "tree", "house", "human"]
